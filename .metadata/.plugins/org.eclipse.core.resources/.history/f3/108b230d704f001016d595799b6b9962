@@ -1,0 +1,6 @@
+server.port=8082
+spring.application.name=config-client
+
+test.prop.intdata=77
+test.prop.stringdata=Data from default property file.
+test.prop.listdata=Data1,Data2,Data3

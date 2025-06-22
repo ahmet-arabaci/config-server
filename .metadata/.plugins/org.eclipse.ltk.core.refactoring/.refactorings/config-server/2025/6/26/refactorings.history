@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;config-server&apos;&#x0D;&#x0A;- Original project: &apos;config-server&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     application-dvl.properties&#x0D;&#x0A;     application-prod.properties&#x0D;&#x0A;     application-test.properties" description="Delete elements" element1="src/main/resources/application-dvl.properties" element2="src/main/resources/application-prod.properties" element3="src/main/resources/application-test.properties" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1750600512045" subPackages="false" version="1.0"/>
+</session>
