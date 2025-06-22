@@ -1,6 +1,0 @@
-server.port=8081
-spring.application.name=config-client
-
-test.prop.intdata=10
-test.prop.stringdata=Data from dvl property file.
-test.prop.listdata=Data4,Data5,Data6

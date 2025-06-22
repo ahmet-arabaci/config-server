@@ -1,6 +1,0 @@
-server.port=8081
-spring.application.name=config-server
-
-test.prop.intdata=12
-test.prop.stringdata=Data from prod property file.
-test.prop.listdata=Data10,Data11,Data12
